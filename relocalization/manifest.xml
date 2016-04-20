@@ -1,0 +1,16 @@
+<package>
+  <description brief="relocalization">
+
+     relocalization
+
+  </description>
+  <author>Pedro Resende</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/quad_launch</url>
+
+  <depend package="cv_bridge"/>
+
+</package>
+
+
